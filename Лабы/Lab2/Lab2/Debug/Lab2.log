@@ -1,0 +1,19 @@
+﻿Сборка начата 04.05.2021 17:34:29.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\Матпрога\Lab2\Lab2\Lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab2.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab2.vcxproj -> C:\Users\User\Documents\Матпрога\Lab2\Debug\Lab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab2.tlog\Lab2.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\Матпрога\Lab2\Lab2\Lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.10
